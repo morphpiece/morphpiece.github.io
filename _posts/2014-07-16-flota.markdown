@@ -1,0 +1,15 @@
+---
+title: FLOTA
+subtitle: Comparison with FLOTA
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: flota.png
+thumbnail: flota.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Few Longest Token Approximation (FLOTA) (Hofmann et al., 2022) is a tokenization improvement method that uses the vocabulary of standard BPE tokenizer but tries to preserve the morphological structure of words during tokenization. For example the word ’undesirable’ would be split as (’und’, ’es’, ’irable’) by BPE; but with FLOTA, it will be split as (’un’,’desirable’); which is closer to exact morphological segmentation of (’un’,’desire’,’able’) used by MorphPiece. While GPT-2+FLOTA shows an improvement of about 6% over vanilla GPT-2 across both datasets, MorphGPT shows improvements of more than 35% in clean version and more than 60% in noisy version.
+
+---

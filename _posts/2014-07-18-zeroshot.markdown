@@ -1,0 +1,15 @@
+---
+title: Zero Shot Inference
+subtitle: Zero Shot Performance on GLUE Benchmark
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: zeroshot.png
+thumbnail: zeroshot.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: General Language Understanding Evaluation (GLUE) benchmark consists of a number of tasks for language understanding. Each task was converted into a prompt and evaluated with appropriate metric in zero-shot setting. Additionally, multiple prompt templates were used to account for variations due to prompt wording.
+
+---

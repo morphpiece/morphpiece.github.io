@@ -1,0 +1,15 @@
+---
+title: LAMBADA
+subtitle: Performance on LAMBADA Task
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: lambada.png
+thumbnail: lambada.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: LAMBADA is used to evaluate the capabilities of LLMs for text understanding by means of a word prediction task. The task is to predict the last word of a paragraph and it is designed in a way that local context is not enough and one requires the whole paragraph to predict the correct answer. This task is known to be particularly hard for models to do well on (Brown et al., 2020). MorphGPT surpasses the accuracy of GPT-2 by almost 10% with only 50k steps and almost reaches the accuracy of a six-times larger GPT-2 Large model 
+
+---

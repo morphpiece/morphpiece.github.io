@@ -1,0 +1,15 @@
+---
+title: MTEB
+subtitle: Massive Text Embedding Benchmark
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: MTEB.png
+thumbnail: MTEB.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Massive Text Embedding Benchmark (MTEB) (Muennighoff et al., 2023) which is a standard benchmark, consists of 8 embedding tasks (both supervised and unsupervised) covering a total of 58 datasets. MorphGPT outperforms GPT-2 across all 7 monolingual tasks (omitted multilingual Bitext Mining task), often with considerable margin.
+
+---
